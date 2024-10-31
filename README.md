@@ -1,2 +1,2 @@
-# Part1-Conditional_Statmenr
+# Part1-Conditional_Statment
 Programming 
